@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/Clickify/static/css/main.cbcbc300.chunk.css",
-    "main.js": "/Clickify/static/js/main.3641dee4.chunk.js",
-    "main.js.map": "/Clickify/static/js/main.3641dee4.chunk.js.map",
+    "main.css": "/Clickify/static/css/main.8fdbe5b9.chunk.css",
+    "main.js": "/Clickify/static/js/main.ee2068ed.chunk.js",
+    "main.js.map": "/Clickify/static/js/main.ee2068ed.chunk.js.map",
     "runtime-main.js": "/Clickify/static/js/runtime-main.4eaf2495.js",
     "runtime-main.js.map": "/Clickify/static/js/runtime-main.4eaf2495.js.map",
     "static/js/2.b7a6145f.chunk.js": "/Clickify/static/js/2.b7a6145f.chunk.js",
     "static/js/2.b7a6145f.chunk.js.map": "/Clickify/static/js/2.b7a6145f.chunk.js.map",
     "index.html": "/Clickify/index.html",
-    "precache-manifest.ffd77169e1b543e15fd302747a24afe4.js": "/Clickify/precache-manifest.ffd77169e1b543e15fd302747a24afe4.js",
+    "precache-manifest.7bae14bb6f82c0a3d329aefd4b4fdafb.js": "/Clickify/precache-manifest.7bae14bb6f82c0a3d329aefd4b4fdafb.js",
     "service-worker.js": "/Clickify/service-worker.js",
-    "static/css/main.cbcbc300.chunk.css.map": "/Clickify/static/css/main.cbcbc300.chunk.css.map"
+    "static/css/main.8fdbe5b9.chunk.css.map": "/Clickify/static/css/main.8fdbe5b9.chunk.css.map"
   },
   "entrypoints": [
     "static/js/runtime-main.4eaf2495.js",
     "static/js/2.b7a6145f.chunk.js",
-    "static/css/main.cbcbc300.chunk.css",
-    "static/js/main.3641dee4.chunk.js"
+    "static/css/main.8fdbe5b9.chunk.css",
+    "static/js/main.ee2068ed.chunk.js"
   ]
 }
