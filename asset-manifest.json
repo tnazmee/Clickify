@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Clickify/static/css/main.d228fd16.chunk.css",
+    "main.js": "/Clickify/static/js/main.30670081.chunk.js",
+    "main.js.map": "/Clickify/static/js/main.30670081.chunk.js.map",
+    "runtime-main.js": "/Clickify/static/js/runtime-main.4eaf2495.js",
+    "runtime-main.js.map": "/Clickify/static/js/runtime-main.4eaf2495.js.map",
+    "static/js/2.b7a6145f.chunk.js": "/Clickify/static/js/2.b7a6145f.chunk.js",
+    "static/js/2.b7a6145f.chunk.js.map": "/Clickify/static/js/2.b7a6145f.chunk.js.map",
+    "index.html": "/Clickify/index.html",
+    "precache-manifest.888f5e1f7f644ed6b918e2b2f824b5b0.js": "/Clickify/precache-manifest.888f5e1f7f644ed6b918e2b2f824b5b0.js",
+    "service-worker.js": "/Clickify/service-worker.js",
+    "static/css/main.d228fd16.chunk.css.map": "/Clickify/static/css/main.d228fd16.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4eaf2495.js",
+    "static/js/2.b7a6145f.chunk.js",
+    "static/css/main.d228fd16.chunk.css",
+    "static/js/main.30670081.chunk.js"
+  ]
+}
