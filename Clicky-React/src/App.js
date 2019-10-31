@@ -2,6 +2,7 @@ import React, { Component } from "react";
 import Card from "./components/Card";
 import Wrapper from "./components/Wrapper";
 import Header from "./components/Header";
+import Parallax from "./components/Parallax";
 import cards from "./cards.json";
 import "./App.css";
 
@@ -47,17 +48,20 @@ class App extends Component {
   render() {
     return (
       <Wrapper>
-        <Header score={this.state.score} highscore={this.state.highscore}>Clickify</Header>
-        
+        <Header score={this.state.score} highscore={this.state.highscore}>
+          <i class="fas fa-basketball-ball"></i> Clickify <i class="fas fa-basketball-ball"></i>
+        </Header>
+        <Parallax></Parallax>
+
         <div className="card-padding"></div>
-          {this.state.cards.map(card => (
-            <Card
-              clickCount={this.clickCount}
-              id={card.id}
-              key={card.id}
-              image={card.image}
-            />
-          ))}
+        {this.state.cards.map(card => (
+          <Card
+            clickCount={this.clickCount}
+            id={card.id}
+            key={card.id}
+            image={card.image}
+          />
+        ))}
         
       </Wrapper>
     );
