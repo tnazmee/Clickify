@@ -1,7 +1,7 @@
 .header {
     width: 100%;
     font-size: 2rem;
-    color: #2A77AE;
+    color: #d98324;
     margin-bottom: 10px;
     text-align: center;
 }
@@ -9,9 +9,11 @@
 .header-nav {
     border-bottom-left-radius: 30px;
     border-bottom-right-radius: 30px;
-    border: 3px solid black !important;
+    border-bottom: 3px solid #d98324 !important;
+    border-left: 3px solid #d98324 !important;
+    border-right: 3px solid #d98324 !important;
     box-shadow: 0 16px 20px 0 rgba(0, 0, 0, 0.2), 0 10px 24px 0 rgba(0, 0, 0, 0.19);
-    background: white;
+    background: black;
 }
 
 .title {
