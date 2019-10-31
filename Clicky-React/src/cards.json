@@ -1,0 +1,73 @@
+[{
+    "id": 1,
+    "name": "Stephen Curry",
+    "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201939.png",
+    "count": 0
+  },
+  {
+    "id": 2,
+    "name": "Klay Thompson",
+    "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202691.png",
+    "count": 0
+  },
+  {
+    "id": 3,
+    "name": "James Harden",
+    "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201935.png",
+    "count": 0
+  },
+  {
+    "id": 4,
+    "name": "Russell Westbrook",
+    "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201566.png",
+    "count": 0
+  },
+  {
+    "id": 5,
+    "name": "Giannis",
+    "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203507.png",
+    "count": 0
+  },
+  {
+    "id": 6,
+    "name": "LeBron James",
+    "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/2544.png",
+    "count": 0
+  },
+  {
+    "id": 7,
+    "name": "DeMarcus Cousins",
+    "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202326.png",
+    "count": 0
+  },
+  {
+    "id": 8,
+    "name": "Kyrie Irving",
+    "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202681.png",
+    "count": 0
+  },
+  {
+    "id": 9,
+    "name": "Kevin Durant",
+    "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201142.png",
+    "count": 0
+  },
+  {
+    "id": 10,
+    "name": "Chris Paul",
+    "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/101108.png",
+    "count": 0
+  },
+  {
+    "id": 11,
+    "name": "De'Aaron Fox",
+    "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628368.png",
+    "count": 0
+  },
+  {
+    "id": 12,
+    "name": "Zion Williamson",
+    "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629627.png",
+    "count": 0
+  }
+]
