@@ -1,23 +1,26 @@
 .card {
-  background: #fff;
-  border-radius: 2px;
+  background: unset;
   height: 250px;
-  margin: 1rem;
+  border-radius: 50%;
+  margin: 2rem;
   position: relative;
-  width: 325px;
-  box-shadow: 0 3px 6px #999, 0 3px 6px #999;
+  width: 260px;
   text-align: left;
 }
 
 .card>.img-container {
   height: 100%;
+  width: 100%;
+  border-radius: 50%;
   overflow: hidden;
   text-align: center;
-  background: #6CADDC;
+  background: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmLmMcUQydHQGx2VTo01l0br7k8ZeRN9HkgU3rXDD0GyQmOMRs&s");
+  box-shadow: 0 6px 9px #999, 0 6px 9px #999;
 }
 
 .card>.img-container>img {
-  width: 60%
+  width: 100%;
+  height: 100%;
 }
 
 .card>.content {

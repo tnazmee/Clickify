@@ -48,14 +48,17 @@ class App extends Component {
     return (
       <Wrapper>
         <Header score={this.state.score} highscore={this.state.highscore}>Clickify</Header>
-        {this.state.cards.map(card => (
-          <Card
-            clickCount={this.clickCount}
-            id={card.id}
-            key={card.id}
-            image={card.image}
-          />
-        ))}
+        
+        <div className="card-padding"></div>
+          {this.state.cards.map(card => (
+            <Card
+              clickCount={this.clickCount}
+              id={card.id}
+              key={card.id}
+              image={card.image}
+            />
+          ))}
+        
       </Wrapper>
     );
   }
